@@ -10,3 +10,15 @@
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
+/Users/dauir/Downloads/zadanie/LegacyApp/bin/Debug/net8.0/LegacyApp.deps.json
+/Users/dauir/Downloads/zadanie/LegacyApp/bin/Debug/net8.0/LegacyApp.dll
+/Users/dauir/Downloads/zadanie/LegacyApp/bin/Debug/net8.0/LegacyApp.pdb
+/Users/dauir/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dauir/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfoInputs.cache
+/Users/dauir/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfo.cs
+/Users/dauir/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/dauir/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.sourcelink.json
+/Users/dauir/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.dll
+/Users/dauir/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
+/Users/dauir/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
+/Users/dauir/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
