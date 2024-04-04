@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dauir/Downloads/zadanie/LegacyApp.tests/LegacyApp.tests.csproj": {}
+    "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp.tests/LegacyApp.tests.csproj": {}
   },
   "projects": {
-    "/Users/dauir/Downloads/zadanie/LegacyApp.tests/LegacyApp.tests.csproj": {
+    "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp.tests/LegacyApp.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dauir/Downloads/zadanie/LegacyApp.tests/LegacyApp.tests.csproj",
+        "projectUniqueName": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp.tests/LegacyApp.tests.csproj",
         "projectName": "LegacyApp.tests",
-        "projectPath": "/Users/dauir/Downloads/zadanie/LegacyApp.tests/LegacyApp.tests.csproj",
+        "projectPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp.tests/LegacyApp.tests.csproj",
         "packagesPath": "/Users/dauir/.nuget/packages/",
-        "outputPath": "/Users/dauir/Downloads/zadanie/LegacyApp.tests/obj/",
+        "outputPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp.tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dauir/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/dauir/Downloads/zadanie/LegacyApp/LegacyApp.csproj": {
-                "projectPath": "/Users/dauir/Downloads/zadanie/LegacyApp/LegacyApp.csproj"
+              "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/LegacyApp.csproj": {
+                "projectPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/LegacyApp.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "/Users/dauir/Downloads/zadanie/LegacyApp/LegacyApp.csproj": {
+    "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dauir/Downloads/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectUniqueName": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "/Users/dauir/Downloads/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/LegacyApp.csproj",
         "packagesPath": "/Users/dauir/.nuget/packages/",
-        "outputPath": "/Users/dauir/Downloads/zadanie/LegacyApp/obj/",
+        "outputPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dauir/.nuget/NuGet/NuGet.Config"

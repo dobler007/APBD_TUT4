@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGs7076aKSVOE4RiP7yXvUU5oOaGX0YO47MmlYwvCLbu3d5L+6jLvphCHgJjI0l+FL88MAagTWeTBblxVAnTKA==",
+  "dgSpecHash": "rF02FGNRRbgcWUbgEPsoJbq6U8S5iOdWHg2m+9xPa8Q3RZaNRazu7xmTdxuPjhXMA5iiK/e6nD7VVgk43jJv/Q==",
   "success": true,
-  "projectFilePath": "/Users/dauir/Downloads/zadanie/LegacyApp.tests/LegacyApp.tests.csproj",
+  "projectFilePath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp.tests/LegacyApp.tests.csproj",
   "expectedPackageFiles": [
     "/Users/dauir/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/dauir/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",

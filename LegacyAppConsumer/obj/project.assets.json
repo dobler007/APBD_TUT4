@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dauir/Downloads/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
+      "projectUniqueName": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyAppConsumer/LegacyAppConsumer.csproj",
       "projectName": "LegacyAppConsumer",
-      "projectPath": "/Users/dauir/Downloads/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
+      "projectPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyAppConsumer/LegacyAppConsumer.csproj",
       "packagesPath": "/Users/dauir/.nuget/packages/",
-      "outputPath": "/Users/dauir/Downloads/zadanie/LegacyAppConsumer/obj/",
+      "outputPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyAppConsumer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dauir/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/dauir/Downloads/zadanie/LegacyApp/LegacyApp.csproj": {
-              "projectPath": "/Users/dauir/Downloads/zadanie/LegacyApp/LegacyApp.csproj"
+            "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/LegacyApp.csproj": {
+              "projectPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/LegacyApp.csproj"
             }
           }
         }

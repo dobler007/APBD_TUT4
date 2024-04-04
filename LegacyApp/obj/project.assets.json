@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dauir/Downloads/zadanie/LegacyApp/LegacyApp.csproj",
+      "projectUniqueName": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/LegacyApp.csproj",
       "projectName": "LegacyApp",
-      "projectPath": "/Users/dauir/Downloads/zadanie/LegacyApp/LegacyApp.csproj",
+      "projectPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/LegacyApp.csproj",
       "packagesPath": "/Users/dauir/.nuget/packages/",
-      "outputPath": "/Users/dauir/Downloads/zadanie/LegacyApp/obj/",
+      "outputPath": "/Users/dauir/RiderProjects/APBD_TUT4/LegacyApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dauir/.nuget/NuGet/NuGet.Config"
